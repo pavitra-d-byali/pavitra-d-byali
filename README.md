@@ -13,8 +13,8 @@
 <div align="center">
   <h3>👩‍💻 About Me</h3>
   <p>
-    AI & ML Engineering Student (B.Tech CSE - AI & ML) <br>
-    Focused on building scalable ML systems, not just notebooks. <br>
+    B.Tech CSE (AI & ML) Student <br>
+    Focused on building scalable ML systems — not just notebooks. <br>
     Interested in MLOps, Model Deployment, and Real-World AI Applications.
   </p>
 </div>
@@ -26,20 +26,6 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,mongodb,flask,fastapi,git,github,docker,linux" />
   <br/>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</div>
-
----
-
-<div align="center">
-  <h3>⚙️ AI / ML Toolkit</h3>
-  <p>
-    ✔ Machine Learning (Regression, Classification, Ensemble Models) <br>
-    ✔ Deep Learning (CNN, ANN) <br>
-    ✔ Model Deployment (Flask APIs) <br>
-    ✔ Data Processing (Pandas, NumPy) <br>
-    ✔ Experiment Tracking (MLflow - Learning Phase) <br>
-    ✔ Real-Time Prediction Systems
-  </p>
 </div>
 
 ---
@@ -57,32 +43,32 @@
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pavitra-d-byali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavitra-d-byali&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
 <div align="center">
   <h3>🔥 Contribution Streak</h3>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=pavitra-d-byali&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
   <h3>📈 3D Contribution Overview</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavitra-d-byali&theme=tokyonight" />
 </div>
 
 ---
 
 <div align="center">
   <h3>🌍 Connect With Me</h3>
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/pavitra-d-byali/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email">
+  <a href="mailto:pavitrabyali6@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
@@ -90,10 +76,9 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=pavitra-d-byali&style=flat-square&color=blue&label=Profile+Views" />
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
 </div>
-
